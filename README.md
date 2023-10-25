@@ -1,5 +1,5 @@
 # Optimizing-online-sports-retail-revenue
-In this notebook, we dive deep into a database that contains sales data from an online sports retailer to provide suggestions on optimizing retail revenues.
+In this notebook, we dive deep and query a database that contains sales data from an online sports retailer to provide suggestions on optimizing retail revenues.
 Based on the explorary data analysis, we can provide four key findings: 
 1) There are in total of 77 unique products on the online retail platform. And it is good for targeting customers with different needs;
 2) Compared to Nike, the store has more expensive ( higher than $129) Adidas products, has higher average discount;
